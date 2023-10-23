@@ -2,6 +2,7 @@
 <h3 align="center">An enthusiastic backend developer hailing from Peru</h3>
 
 - 🔭 I’m currently working on **I work on a special project for the Technical Secretariat that supports the Ad Hoc Commission under the PCM.**
+- 🌱 I’m currently learning a lot of stuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
