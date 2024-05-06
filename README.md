@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwin HC</h1>
 <h3 align="center">An enthusiastic backend developer hailing from Peru</h3>
 
-- 🔭 I’m currently working on **I work on a special project for the Technical Secretariat that supports the Ad Hoc Commission under the PCM.**
+- 🔭 I am currently working at Socius, a company at the forefront of technology. We complement IT teams with a strategic and practical vision, providing support and solutions to the challenges faced by our clients, thereby adding value to their businesses.**
 - 🌱 I’m currently learning a lot of stuff
 
 <h3 align="left">Connect with me:</h3>
