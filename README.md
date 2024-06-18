@@ -75,4 +75,6 @@
     alt="typescript" width="40" height="40"/> </a></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=edwinrhc"/>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrhc)](https://github.com/anuraghazra/edwinrhc) -->
