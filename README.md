@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://twitter.com/edwinrhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwinrhc" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/edwinrhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinrhc" height="30" width="40"/></a>
- <a href="mailto:edwinrhc@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="mail" height="50" width="55" /></a>
+ <a href="mailto:edwinrhc@gmail.com" target="_blank"><img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" /></a>
   
 </p>
 
