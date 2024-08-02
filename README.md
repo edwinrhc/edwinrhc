@@ -53,7 +53,7 @@ I am a backend developer with a passion for building scalable and efficient appl
 ## 
 
 <center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/edwinrhc">
     <img src="https://github-profile-trophy.vercel.app/?username=edwinrhc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophy" />
   </a>
 </center>
