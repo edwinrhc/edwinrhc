@@ -78,3 +78,7 @@
 <img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=edwinrhc"/>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrhc)](https://github.com/anuraghazra/edwinrhc) -->
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
