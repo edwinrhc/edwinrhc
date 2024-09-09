@@ -64,8 +64,61 @@ I am a backend developer with a passion for building scalable and efficient appl
 |---------|-----|----------|
 | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> | <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> | <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> |
 
-## 
 
+ <p>
+    <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  </p>
+
+## 💫 Stats
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
+<table align="left">
+   <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=edwinrhc&theme=algolia&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinrhc&theme=algolia&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrhc&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+   </tr>
+   
+</table>
+
+<table align="left">
+<tr border="none">
+<td width="50%" align="center"> 
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edwinrhc&theme=algolia" height="200em width=455em" />
+      </td>
+      <td width="50%" align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edwinrhc&theme=algolia" height="200em" width="455em" />
+  </td>
+</tr>
+</table>
+      
+
+<table align="left">
+   <tr border="none">
+      <td width="100%" align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwinrhc&theme=algolia" height="200em" width="822.5em" />
+     </td>
+   </tr>
+</table>
+
+
+<!--- trophy (start) -->
+<table align="left">
+   <tr border="none">
+      <td width="100%" align="center">
+         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=edwinrhc&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
+      </td>
+   </tr>
+</table>
+
+
+<!---
+## 
 <center>
   <a href="https://github.com/edwinrhc">
     <img src="https://github-profile-trophy.vercel.app/?username=edwinrhc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophy" />
@@ -85,11 +138,12 @@ I am a backend developer with a passion for building scalable and efficient appl
     <img width="1000" src="assets/github-snake.svg" alt="snake"/>
   </p>
 </div>
-
+-->
 
 <!--<p align="center">
   <img src="https://via.placeholder.com/1000x200?text=Welcome+to+my+GitHub+Profile!" alt="banner"/>
 </p> -->
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinrhc)](https://github.com/anuraghazra/edwinrhc) 
