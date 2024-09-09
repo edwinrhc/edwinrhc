@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwin HC</h1>
 <h3 align="center">An enthusiastic backend developer from Peru</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00ADFD&width=600&height=60&lines=Soy+un+Desarrollador+Backend;Apasionado+por+Aplicaciones+Escalables;3%2B+Años+de+Experiencia+en+la+Industria;Experto+en+Java%2C+Node.js%2C+NestJs;Construyendo+Sistemas+Eficientes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00ADFD&width=600&height=60&lines=I'm+Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;I+Always+Try+to+Learn+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Build+Cloud+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Design+Brands;I+Create+User+Experience+Designs;I+Implement+REST%2FSOAP+Web+Services;I+Analyze+Data+Using+Data+Science;I+Configure+CI%2FCD)](https://git.io/typing-svg)
+
 
 
 - 🌱 I’m currently learning NestJs
