@@ -3,7 +3,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=edwinrhc&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
 
 <h1 align="center">Hi 👋, I'm Edwin HC ✨</h1>
-<h3 align="center">An enthusiastic backend developer from Peru</h3>
+<h3 align="center">An enthusiastic backend developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00ADFD&width=600&height=60&lines=I'm+a+Backend+Developer;Passionate+About+Scalable+Applications;3%2B+Years+of+Industry+Experience;Experienced+with+Java%2C+Node.js%2C+NestJs;Building+Efficient+Systems)](https://git.io/typing-svg)
 
