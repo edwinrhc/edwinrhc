@@ -1,6 +1,6 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=edwinrhc&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=edwinrhc&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
-![Views Counter](https://views-counter.vercel.app/badge?pageId=edwinrhc&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
+<!--![Views Counter](https://views-counter.vercel.app/badge?pageId=edwinrhc&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)-->
 
 <h1 align="center">Hi 👋, I'm Edwin ✨</h1>
 <h3 align="center">An enthusiastic backend developer</h3>
