@@ -114,7 +114,7 @@ I am a backend developer with a passion for building scalable and efficient appl
    <tr border="none">
       <td width="100%" align="center">
          <!-- <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=edwinrhc&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" /> -->
-        <img align="center" width="84%"  src="https://github-profile-trophy.vercel.app/?username=edwinrhc&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false&rank=S"  alt="TROPHY" />
+        <img align="center" width="84%"  src="https://github-profile-trophy.vercel.app/?username=edwinrhc&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false"  alt="TROPHY" />
       </td>
    </tr>
 </table>
