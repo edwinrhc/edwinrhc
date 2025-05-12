@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning NestJs
+<!-- - 🌱 I’m currently learning NestJs -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
